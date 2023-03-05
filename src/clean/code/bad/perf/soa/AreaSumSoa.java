@@ -23,7 +23,7 @@ public class AreaSumSoa {
         ShapeArray array = new ShapeArray(N);
 
         double minTime = Double.MAX_VALUE;
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 20; i++) {
             long startTime = System.nanoTime();
 
             double sum = sumArrayForLoopIndex(array);
