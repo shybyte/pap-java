@@ -18,7 +18,7 @@ class Square implements Shape {
 }
 
 
-public class Main {
+public class ArraySum {
     static int COMPLETE_N = 100_000_000;
     static int N = 100_000;
     static int N2 = COMPLETE_N / N;
